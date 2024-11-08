@@ -26,6 +26,8 @@ With a rich background in backend development and a focus on **Ruby on Rails**, 
 
 As a **Tech Lead and Developer** at Concentrix, I’m engaged in PI planning and team coordination, while developing advanced solutions for **Symplr**. I’ve previously contributed to the booking platform of **iSeatz** (for American Express) and delivered high-volume ETL solutions for **Sense360**. Each role has enriched my skills in handling complex integrations and data-intensive applications.
 
+My Professional Profile in GitHub for Symplr is [Github - Luis Mender @ Symplr](https://github.com/luismender-symplr)
+
 ### 🌱 Mentor & Lifelong Learner
 
 I enjoy sharing my knowledge, having mentored at **Rolling Code School**, and frequently engage in guiding colleagues through technical challenges.
